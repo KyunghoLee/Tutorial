@@ -1,4 +1,4 @@
-## Integrating Human Factors into AI for Fake News Prevention: Challenges and Opportunities
+# Integrating Human Factors into AI for Fake News Prevention: Challenges and Opportunities
 
 Tutorial Presented at AAAI 2019, Honolulu, Hawaii
 
