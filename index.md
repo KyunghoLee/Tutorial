@@ -25,23 +25,33 @@ The tutorial consists of three parts. In the two parts, we will present summarie
 
 This tutorial is geared toward graduate students, AI researchers, and practitioners, who are interested in fake news detection and prevention but do not have much background in human factors, and want to learn about principles of human information processing and apply those principles for AI algorithms to detect and prevent fake news.
 
-```markdown
-Syntax highlighted code block
+### Topics
+The main topics of the tutorial will be:
 
-# Header 1
-## Header 2
-### Header 3
+- **Prelude**
+  - The Rising Problem of Fake News, its Impact on Society
+  - An Age-old Problem: A History of Fake News
+  - What is Fake News? Definitions and Terminology
+- **AI Research for Fake News**
+  - A Three Tiered Pipeline for AI Research in Fake News: Introduction
+  - AI Research for Disincentivizing Creation of Fake News
+  - AI Research for Detection of Fake News
+  - AI Research for Mitigation of Fake News
+- **Human Factors and Cognitive Psychology Research for Fake News**
+  - A Three Tiered Pipeline for Human Factors Research in Fake News: Introduction
+  - Perception in Humans: Key Results and Discussion
+  - Cognition in Humans: Key Results and Discussion
+  - Action in Humans: Key Results and Discussion
+- **Integrating AI and Human Factors Research**
+  - Possible Future Directions
+- **Closing Comments**
+  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
