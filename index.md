@@ -7,9 +7,11 @@ Venue: South Pacific 2, Upper level
 
 ### Presenters
 
-![Image of Amulya Yadav](http://teamcore.usc.edu/people/amulya/Amulya.png)**Amulya Yadav** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. His research interests include Artificial Intelligence, Multi-Agent Systems, Computational Game-Theory and Applied Machine Learning.
+![Image of Amulya Yadav](http://teamcore.usc.edu/people/amulya/Amulya.png) ![Image of Aiping Xiong](https://i.ibb.co/FVFW492/online.png)
 
-![Image of Aiping Xiong](https://i.ibb.co/FVFW492/online.png)**Aiping Xiong** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. Her research has focused on examining decision making and human action selection within various cyber security and privacy contexts, including phishing, password generation, app selection, and autonomous driving.
+**Amulya Yadav** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. His research interests include Artificial Intelligence, Multi-Agent Systems, Computational Game-Theory and Applied Machine Learning.
+
+**Aiping Xiong** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. Her research has focused on examining decision making and human action selection within various cyber security and privacy contexts, including phishing, password generation, app selection, and autonomous driving.
 
 ### Abstract
 This tutorial aims to sketch the shape of an interdisciplinary approach involving artificial intelligence (AI) and cognitive psychology for fake news prevention on social media platforms. One objective is to illustrate how representations of human behavior can lead to realistic models/algorithms which address different aspects of the fake news problem, e.g., characterization, detection, and mitigation of fake news. Another is to emphasize the importance of understanding/characterizing the interactions between humans and these AI-aided systems.
