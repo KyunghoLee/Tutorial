@@ -10,7 +10,7 @@ Venue: South Pacific 2, Upper level
 
 ### Presenters
 
-![Image of Amulya Yadav](https://i.ibb.co/2ZN3fFH/rescaled.png)                                                                                    ![Image of Aiping Xiong](https://i.ibb.co/FVFW492/online.png)
+![Image of Amulya Yadav](https://i.ibb.co/2ZN3fFH/rescaled.png)                                                                     ![Image of Aiping Xiong](https://i.ibb.co/FVFW492/online.png)
 
 **Amulya Yadav** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. His research interests include Artificial Intelligence, Multi-Agent Systems, Computational Game-Theory and Applied Machine Learning.
 
