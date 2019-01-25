@@ -1,13 +1,16 @@
 ## Integrating Human Factors into AI for Fake News Prevention: Challenges and Opportunities
 
 Tutorial Presented at AAAI 2019, Honolulu, Hawaii
+
 Date: Monday, 28th January, 2019
+
 Time: 1:30 PM - 5:30 PM
+
 Venue: South Pacific 2, Upper level
 
 ### Presenters
 
-![Image of Amulya Yadav](https://i.ibb.co/2ZN3fFH/rescaled.png) ![Image of Aiping Xiong](https://i.ibb.co/FVFW492/online.png)
+![Image of Amulya Yadav](https://i.ibb.co/2ZN3fFH/rescaled.png)![Image of Aiping Xiong](https://i.ibb.co/FVFW492/online.png)
 
 **Amulya Yadav** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. His research interests include Artificial Intelligence, Multi-Agent Systems, Computational Game-Theory and Applied Machine Learning.
 
