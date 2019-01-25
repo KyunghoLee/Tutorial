@@ -8,16 +8,6 @@ Tutorial Presented at AAAI 2019, Honolulu, Hawaii
 
 **Venue**: South Pacific 2, Upper level
 
-### Presenters
-
-Amulya Yadav               |  Aiping Xiong
-:-------------------------:|:-------------------------:
-![](https://i.ibb.co/2ZN3fFH/rescaled.png)  |  ![](https://i.ibb.co/FVFW492/online.png)
-
-**Amulya Yadav** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. His research interests include Artificial Intelligence, Multi-Agent Systems, Computational Game-Theory and Applied Machine Learning.
-
-**Aiping Xiong** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. Her research has focused on examining decision making and human action selection within various cyber security and privacy contexts, including phishing, password generation, app selection, and autonomous driving.
-
 ### Abstract
 This tutorial aims to sketch the shape of an interdisciplinary approach involving artificial intelligence (AI) and cognitive psychology for fake news prevention on social media platforms. One objective is to illustrate how representations of human behavior can lead to realistic models/algorithms which address different aspects of the fake news problem, e.g., characterization, detection, and mitigation of fake news. Another is to emphasize the importance of understanding/characterizing the interactions between humans and these AI-aided systems.
 
@@ -49,4 +39,15 @@ The main topics of the tutorial will be:
 ### Presentation Slides
 
 [AI and Human Factors Research for Tackling the Fake News Problem](https://www.dropbox.com/s/sqy29rnvz0wtbdw/AAAI19Tutorial.pptx)
+
+
+### Presenters
+
+Amulya Yadav               |  Aiping Xiong
+:-------------------------:|:-------------------------:
+![](https://i.ibb.co/2ZN3fFH/rescaled.png)  |  ![](https://i.ibb.co/FVFW492/online.png)
+
+**Amulya Yadav** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. His research interests include Artificial Intelligence, Multi-Agent Systems, Computational Game-Theory and Applied Machine Learning.
+
+**Aiping Xiong** is an Assistant Professor in the College of Information Sciences and Technology at Penn State University. Her research has focused on examining decision making and human action selection within various cyber security and privacy contexts, including phishing, password generation, app selection, and autonomous driving.
 
