@@ -38,7 +38,7 @@ The main topics of the tutorial will be:
   
 ### Presentation Slides
 
-[AI and Human Factors Research for Tackling the Fake News Problem](https://www.dropbox.com/s/sqy29rnvz0wtbdw/AAAI19Tutorial.pptx)
+[AI and Human Factors Research for Tackling the Fake News Problem](https://www.dropbox.com/s/tgciel3bh1fbwig/AAAI19Tutorial-pdf.pdf)
 
 
 ### Presenters
